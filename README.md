@@ -2,7 +2,7 @@
 Quotes is an application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational. Users could create a new quote, delete a quote, vote for or against the quote and see the number of votes for and number of votes against for each quote.
 #### By **{Melvin Muuo}**
 ## Description
-Quotes is an application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational. Users could create a new quote, delete a quote, vote for or against the quote and see the number of votes for and number of votes against for each quote.
+Quotes is an application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational. Users can create a new quote, delete a quote, vote for or against the quote and see the number of votes for and number of votes against for each quote.
 
 ## Setup/Installation Requirements
 *  Copy the URL (either select the text and copy it manually, or click on the clipboard button next to the URL). Clone the repository using the git clone command in the terminal. The terminal will print some feedback that it has successfully cloned the repository.
